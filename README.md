@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Felipe Gonçalves
 
-<!--
-**FelipeGonNog/FelipeGonNog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Focado em desenvolvimento backend, APIs REST e análise de dados  
+🚀 Buscando evoluir em arquitetura de software e sistemas escaláveis  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estou focado em construir aplicações backend robustas, com integração a APIs externas, persistência de dados e boas práticas de arquitetura.
+
+Tenho interesse especial em:
+- APIs REST
+- Análise de dados
+- Backend com Java
+- Arquitetura de software
+
+---
+
+## 🔧 Tecnologias e ferramentas
+
+### Backend
+- Java
+- Spring Boot
+- JPA / Hibernate
+- APIs REST
+
+### Banco de dados
+- SQL
+- H2
+- (em evolução: PostgreSQL / Oracle)
+
+### Dev & Arquitetura
+- Gradle
+- Git / GitHub
+- MVC
+- Boas práticas de clean code
+
+### Em aprendizado
+- Microsserviços
+- Docker
+- Cloud (AWS / Azure)
+- Segurança (JWT)
+
+---
+
+## 📌 Projeto em destaque
+
+### 🔍 GovInsight
+API para monitoramento de indicadores com dados do Portal da Transparência.
+
+**Funcionalidades:**
+- Integração com API pública
+- Filtros por parâmetros (ano, função, etc)
+- Resumo analítico de despesas
+- Persistência com banco relacional (JPA)
+- Tratamento global de erros
+
+👉 Em desenvolvimento contínuo
+
+---
+
+## 📈 Atualmente estou trabalhando em
+
+- Evolução do projeto GovInsight
+- Aprimoramento em Spring Boot e arquitetura em camadas
+- Prática de SQL e modelagem de dados
+- Estudos sobre microsserviços e cloud
+
+---
+
+## 📫 Como me encontrar
+
+- GitHub: https://github.com/FelipeGonNog
+- LinkedIn: *(coloque seu link aqui)*
+- Email: *(se quiser, coloque aqui)*
+
+---
+
+## ⚡ Objetivo
+
+Busco uma oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais.
+
+---
+
+⭐ Obrigado por visitar meu perfil!
