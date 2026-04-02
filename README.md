@@ -1,9 +1,4 @@
 # 👋 Olá, eu sou o Felipe Gonçalves
-
-🎓 Estudante de Engenharia de Software  
-💻 Focado em desenvolvimento backend e APIs REST  
----
-## 🚀 Sobre mim
 Tenho interesse em desenvolvimento backend, integração com APIs e análise de dados. Busco evoluir em arquitetura de software e construção de aplicações escaláveis.
 ---
 ## 🔧 Tecnologias
