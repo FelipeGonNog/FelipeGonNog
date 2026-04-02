@@ -3,12 +3,7 @@ Tenho interesse em desenvolvimento backend, integração com APIs e análise de 
 ---
 ## 🔧 Tecnologias
 
-- Java
-- Spring Boot
-- JPA / Hibernate
-- SQL (H2)
-- Gradle
-- Git / GitHub
+MySql Bootstrap Js Java PostgreSQL IntelliJ Spring Spring-Security PowerShell Windows Terminal notion
 ---
 ## 📌 Projeto em destaque:
 ### GovInsight
